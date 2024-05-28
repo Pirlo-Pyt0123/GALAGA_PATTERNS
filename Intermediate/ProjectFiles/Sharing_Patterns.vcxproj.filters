@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Sharing_Patterns.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{21EF2CD6-CDA4-48BB-8D83-7998FA73C6F1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Sharing_Patterns.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Sharing_PatternsEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\SourceOB-ST-EST.zip" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{C5FB3478-6183-4CED-8A54-0D05C54BD7B9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Sharing_Patterns">
+      <UniqueIdentifier>{85ACF8D0-7B10-40E0-937F-B2C0A59B5475}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\H_PS_EstrategiaProy_Bomba.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\H_PS_EstrategiaProy_Bomba.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\H_PS_EstrategiaProy_Esfera_Energ.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\H_PS_EstrategiaProy_Esfera_Energ.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\H_PS_EstrategiaProy_Laser.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\H_PS_EstrategiaProy_Laser.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\H_PS_EstrategiaProy_Misil.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\H_PS_EstrategiaProy_Misil.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\MenuHUD.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\MenuHUD.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\MyObstaculo_.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\MyObstaculo_.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Nave_Enemiga_01.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Nave_Enemiga_01.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Nave_Enemiga_02.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Nave_Enemiga_02.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Nave_Enemiga_03.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Nave_Enemiga_03.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Nave_Enemiga_04.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Nave_Enemiga_04.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Nave_Enemiga_05.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Nave_Enemiga_05.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Nave_Enemiga_P.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Nave_Enemiga_P.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\NAVE_MAESTRA_FINAL_P.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\NAVE_MAESTRA_FINAL_P.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Obstaculo_Asteroide.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Obstaculo_Asteroide.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Obstaculo_Cometa.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Obstaculo_Cometa.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Obstaculo_Meteoro.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Obstaculo_Meteoro.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Obstaculo_Mina_Galactica.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Obstaculo_Mina_Galactica.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Obstaculo_P.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Obstaculo_P.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Obstaculo_Satelite.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Obstaculo_Satelite.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\OP_Torreta_Sus_01.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\OP_Torreta_Sus_01.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\OP_Torreta_Sus_02.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\OP_Torreta_Sus_02.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\OP_Torreta_Sus_03.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\OP_Torreta_Sus_03.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\PO_In_Observador.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\PO_In_Observador.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\PO_In_Sujeto_Identificado.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\PO_In_Sujeto_Identificado.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\PO_Luz_Infraroja.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\PO_Luz_Infraroja.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Proyectil_Bomba_Pa.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Proyectil_Bomba_Pa.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Proyectil_Esfera_Energia.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Proyectil_Esfera_Energia.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Proyectil_Laser.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Proyectil_Laser.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Proyectil_Misil.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Proyectil_Misil.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Proyectil_P.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Proyectil_P.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\PS_Int_Estragia_Disparo.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\PS_Int_Estragia_Disparo.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\P_ES_Estado_Frenetico.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\P_ES_Estado_Frenetico.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\P_ES_Estado_Normal.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\P_ES_Estado_Normal.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\P_ES_Estado_Suenio.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\P_ES_Estado_Suenio.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\P_ES_Int_Estado_P.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\P_ES_Int_Estado_P.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\P_FM_Fabrica_Nave_H.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\P_FM_Fabrica_Nave_P.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\P_FM_Fabrica_Nave_P.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\P_FM_Fabrica_Obstaculo_H.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\P_FM_Fabrica_Obstaculo_P.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\P_FM_Fabrica_Obstaculo_P.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\P_GT_Nave_Maestra_Jefe_P.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\P_GT_Nave_Maestra_Jefe_P.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Radar_Widget_P_O.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Radar_Widget_P_O.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Sharing_Patterns\Sharing_Patterns.Build.cs">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Sharing_Patterns.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Sharing_Patterns.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Sharing_PatternsGameMode.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Sharing_PatternsGameMode.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Sharing_PatternsPawn.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Sharing_PatternsPawn.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\Sharing_PatternsProjectile.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\Sharing_PatternsProjectile.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Sharing_Patterns\SLiteBarWidget.cpp">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Sharing_Patterns\SLiteBarWidget.h">
+      <Filter>Source\Sharing_Patterns</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

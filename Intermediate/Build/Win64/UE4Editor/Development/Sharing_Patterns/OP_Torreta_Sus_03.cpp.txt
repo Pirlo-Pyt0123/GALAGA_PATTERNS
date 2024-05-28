@@ -1,0 +1,3 @@
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Intermediate\Build\Win64\UE4Editor\Development\Sharing_Patterns\Definitions.Sharing_Patterns.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Source\Sharing_Patterns\OP_Torreta_Sus_03.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Intermediate\Build\Win64\UE4Editor\Inc\Sharing_Patterns\OP_Torreta_Sus_03.generated.h

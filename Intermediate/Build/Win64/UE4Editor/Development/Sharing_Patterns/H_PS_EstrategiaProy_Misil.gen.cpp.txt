@@ -1,0 +1,7 @@
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Intermediate\Build\Win64\UE4Editor\Development\Sharing_Patterns\Definitions.Sharing_Patterns.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Source\Sharing_Patterns/H_PS_EstrategiaProy_Misil.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Source\Sharing_Patterns\PS_Int_Estragia_Disparo.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Intermediate\Build\Win64\UE4Editor\Inc\Sharing_Patterns\PS_Int_Estragia_Disparo.generated.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Intermediate\Build\Win64\UE4Editor\Inc\Sharing_Patterns\H_PS_EstrategiaProy_Misil.generated.h

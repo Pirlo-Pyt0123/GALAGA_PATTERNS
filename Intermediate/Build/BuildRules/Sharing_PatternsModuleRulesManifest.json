@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Galaga\\Sharing_Patterns-master\\Source\\Sharing_Patterns\\Sharing_Patterns.Build.cs",
+		"D:\\Galaga\\Sharing_Patterns-master\\Source\\Sharing_Patterns.Target.cs",
+		"D:\\Galaga\\Sharing_Patterns-master\\Source\\Sharing_PatternsEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

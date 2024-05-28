@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Sharing_Patterns",
+			"Path": "D:\\Galaga\\Sharing_Patterns-master\\Source\\Sharing_Patterns.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Sharing_PatternsEditor",
+			"Path": "D:\\Galaga\\Sharing_Patterns-master\\Source\\Sharing_PatternsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Intermediate\Build\Win64\UE4Editor\Development\Sharing_Patterns\Definitions.Sharing_Patterns.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Source\Sharing_Patterns\H_PS_EstrategiaProy_Laser.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Source\Sharing_Patterns\PS_Int_Estragia_Disparo.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Intermediate\Build\Win64\UE4Editor\Inc\Sharing_Patterns\PS_Int_Estragia_Disparo.generated.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Intermediate\Build\Win64\UE4Editor\Inc\Sharing_Patterns\H_PS_EstrategiaProy_Laser.generated.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Source\Sharing_Patterns\Proyectil_Laser.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Source\Sharing_Patterns\Proyectil_P.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/ProjectileMovementComponent.h
+C:\JUEGOS\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/MovementComponent.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MovementComponent.generated.h
+C:\JUEGOS\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ProjectileMovementComponent.generated.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Intermediate\Build\Win64\UE4Editor\Inc\Sharing_Patterns\Proyectil_P.generated.h
+D:\UNREAL_ENGINGE_4.27\Sharing_Patterns\Intermediate\Build\Win64\UE4Editor\Inc\Sharing_Patterns\Proyectil_Laser.generated.h
